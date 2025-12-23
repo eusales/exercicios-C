@@ -7,6 +7,8 @@ Além do código aqui no GitHub, eu organizo minha lista de tarefas e cronograma
 
 👉 [**Clique aqui para ver meu Quadro de Exercícios no Notion**]([https://www.notion.so/2d19004c5c08811dad15e7c7c8fe0c7f?v=2d19004c5c0881c7bcfb000cfc7473ac&source=copy_link])
 
+link - www.notion.so/2d19004c5c08811dad15e7c7c8fe0c7f?v=2d19004c5c0881c7bcfb000cfc7473ac&source=copy_link
+
 ## 🗂️ Estrutura do Repositório
 
 Organizei os arquivos por tópicos para facilitar a busca:
