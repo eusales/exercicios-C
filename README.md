@@ -20,4 +20,4 @@ Organizei os arquivos por tópicos para facilitar a busca:
 Muitos códigos possuem comentários explicativos sobre *como* cheguei na solução. Sinta-se à vontade para explorar e sugerir melhorias!
 
 ---
-Desenvolvido por [Seu Nome] 🚀
+Desenvolvido por Matheus Sales 🚀
