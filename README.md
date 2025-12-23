@@ -5,7 +5,7 @@ Este repositório contém uma coleção de algoritmos e exercícios que desenvol
 ## 🔗 Acompanhe meu Progresso
 Além do código aqui no GitHub, eu organizo minha lista de tarefas e cronograma de estudos no Notion. Você pode acompanhar o que estou estudando em tempo real:
 
-👉 [**Clique aqui para ver meu Quadro de Exercícios no Notion**]([Chttps://www.notion.so/2d19004c5c08811dad15e7c7c8fe0c7f?v=2d19004c5c0881c7bcfb000cfc7473ac&source=copy_link])
+👉 [**Clique aqui para ver meu Quadro de Exercícios no Notion**]([https://www.notion.so/2d19004c5c08811dad15e7c7c8fe0c7f?v=2d19004c5c0881c7bcfb000cfc7473ac&source=copy_link])
 
 ## 🗂️ Estrutura do Repositório
 
@@ -26,4 +26,3 @@ Muitos códigos possuem comentários explicativos sobre *como* cheguei na soluç
 
 ---
 Desenvolvido por Matheus Sales 🚀
-
