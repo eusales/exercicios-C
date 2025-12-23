@@ -1,2 +1,23 @@
-# exercicios-C
-# 💻 Práticas de Programação: C & C++  Este repositório contém uma coleção de algoritmos e exercícios que desenvolvi durante meus estudos de Engenharia.  ## 🗂️ Estrutura do Repositório  Organizei os arquivos por tópicos para facilitar a busca:  - **/Basico**: Estruturas de controle (if/else, loops) e variáveis. - **/Funcoes**: Exercícios focados em modularização e reaproveitamento de código. - **/Ponteiros**: Exercícios sobre gerenciamento de memória e referência. - **/Estruturas_Dados**: Listas, pilhas, filas e structs. - **/POO**: (C++) Conceitos de Classes e Objetos.  ## 🔧 Ferramentas Utilizadas - Visual Studio Code - Compilador GCC (MinGW)  ## 📝 Notas de Estudo Muitos códigos possuem comentários explicativos sobre *como* cheguei na solução. Sinta-se à vontade para explorar e sugerir melhorias!  --- Desenvolvido por Matheus Sales 🚀
+# 💻 Práticas de Programação: C & C++
+
+Este repositório contém uma coleção de algoritmos e exercícios que desenvolvi durante meus estudos de Engenharia.
+
+## 🗂️ Estrutura do Repositório
+
+Organizei os arquivos por tópicos para facilitar a busca:
+
+- **/Basico**: Estruturas de controle (if/else, loops) e variáveis.
+- **/Funcoes**: Exercícios focados em modularização e reaproveitamento de código.
+- **/Ponteiros**: Exercícios sobre gerenciamento de memória e referência.
+- **/Estruturas_Dados**: Listas, pilhas, filas e structs.
+- **/POO**: (C++) Conceitos de Classes e Objetos.
+
+## 🔧 Ferramentas Utilizadas
+- Visual Studio Code
+- Compilador GCC (MinGW)
+
+## 📝 Notas de Estudo
+Muitos códigos possuem comentários explicativos sobre *como* cheguei na solução. Sinta-se à vontade para explorar e sugerir melhorias!
+
+---
+Desenvolvido por [Seu Nome] 🚀
